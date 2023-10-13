@@ -64,9 +64,9 @@ Switching to passive-aggressive communication happens:
 How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
 
 To communicate assertively:
-- I try to Understand and express my feelings without blame.
+- I try to understand and express others feelings without blame.
 - I just try to figure out and clearly state my needs behind my requests.
 - I practice in less stressful situations to gain confidence.
 - I mind my body language and tone, keeping them respectful.
-- I address my problems early to avoid them getting worse.
+- I address my problems early to avoid them getting worse.\
  These are the few steps that can help me to communicate confidently.
