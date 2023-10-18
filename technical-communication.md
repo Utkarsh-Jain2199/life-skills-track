@@ -26,7 +26,7 @@ public class ExampleController {
         return "Resource with ID " + id;
     }
 }
-
+```
 ## Conclusion
 REST is a popular way to build web services because it keeps things simple and allows our applications to grow without breaking. In Java, frameworks like Spring MVC and JAX-RS make it easier to follow REST rules and create applications that can handle a lot of users and information.
 
