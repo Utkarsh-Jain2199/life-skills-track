@@ -18,7 +18,7 @@ The Internal Locus of Control is a psychological concept where individuals belie
 ## 4. How to build a Growth Mindset
 **Question 4**: What are the key points mentioned by speaker to build growth mindset (explanation not needed).
 
-1. Believe in our ability to figure things out.
+-- 1. Believe in our ability to figure things out.
 2. Question our assumptions and be open to learning.
 3. Develop a curriculum to achieve our dreams.
 4. Learn from failures and setbacks.
